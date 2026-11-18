@@ -1,5 +1,5 @@
 ---
-name: simcorp-presentation-coach
+name: presentation-coach-simcorp
 description: Coach SimCorp colleagues (engineers, product managers, owners) to improve a presentation they have already drafted, and rebuild the improved slides on the official SimCorp template. Runs a short one-question-at-a-time interview, then gives a scorecard and concrete fixes covering must-knows, structure, SCQA storytelling, visuals, engagement, preparation, risks and likely audience questions. Any slide it creates or rewrites is ALWAYS built with /anthropic-skills:simcorp-pptx, never generic pptx generation. Use whenever someone asks for presentation feedback, a deck review, help with a pitch, town hall, demo, QBR or training session, a stronger opening or closing, an agenda or takeaway slide, or says "coach me", "review my deck", "make my slides better", even if they do not mention coaching.
 ---
 
